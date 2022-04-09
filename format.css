@@ -1,3 +1,12 @@
+body{
+	background-color:white;
+    background: url(Images/csc_logo_circle_transparent.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 50% 50%;
+  background-position: center;
+}
+
 h1{
     color: rgb(0, 102, 255);
     text-align: center;
@@ -8,7 +17,7 @@ h2{
     text-align: center;
 }
 
-body{
+p{
     text-align: center;
     font-family:"Comic Sans MS", cursive, sans-serif;
 }
