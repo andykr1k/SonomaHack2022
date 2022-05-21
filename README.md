@@ -1,15 +1,5 @@
-# Sonoma State Hackathon 2022
+# Sonoma State Hackathon 2022 (4/8/2022 - 4/10/22)
 
-Goal:
+Goal: Redesign CS Club website
 
-Redesign CS Club website
-
-Collaborators:
-
-Adam Lyday
-Andrew Krikorian
-Spencer Odom
-
-Start-End Date:
-
-4/8/2022 - 4/10/22
+Collaborators: Andrew Krikorian, Adam Lyday and Spencer Odom
