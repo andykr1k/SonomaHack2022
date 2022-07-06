@@ -8,7 +8,3 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/andykr1k/SonomaHack2022?style=for-the-badge"/>
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/andykr1k/SonomaHack2022?style=for-the-badge"/>
 </div>
-
-Goal: Redesign CS Club website
-
-Collaborators: Andrew Krikorian, Adam Lyday and Spencer Odom
